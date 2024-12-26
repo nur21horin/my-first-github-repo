@@ -4,5 +4,8 @@ div{
     scrollbar-darkshadow-color: aquamarine;
     font-size: larger;
     font-size-adjust: initial;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    box-shadow: 20px 20px;
+    border: 50%;
 }
